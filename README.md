@@ -29,4 +29,4 @@ This project demonstrates interactive prototyping and micro-interactions for a F
 - Interactive Prototype
 
 # Prototype Link
-https://www.figma.com/proto/s8BI0qJlQOS20qpHrU8r21/Mission-3---Prototype?node-id=2-28&t=xAbMwg9Oyu0iAzxm-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A8
+https://www.figma.com/proto/s8BI0qJlQOS20qpHrU8r21/Mission-3---Prototype?node-id=2-8&t=9qNd4ND13Tj2dr1G-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A8&show-proto-sidebar=1
